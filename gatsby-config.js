@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Das Blog`,
     author: {
-      name: `Stefan Barkman`,
+      name: `Stefan Barkman `,
       summary: `Troubleshooting wizard.`,
     },
     description: `Explore. Create. Inspire.`,
