@@ -3,7 +3,7 @@ module.exports = {
     title: `Das Blog`,
     author: {
       name: `Stefan Barkman `,
-      summary: `Troubleshooting wizard.`,
+      summary: `Troubleshooting wizard who enjoys creating stuff.`,
     },
     description: `Explore. Create. Inspire.`,
     siteUrl: `https://www.dasblog.xyz`,
