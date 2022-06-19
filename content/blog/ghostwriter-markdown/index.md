@@ -2,7 +2,7 @@
 title: Ghostwriter for markdown
 date: "2022-06-19"
 ---
-![](https://github.com/thebarkman/randomtext/blob/b60063ec148e389552279ce8118cd8ab02a04053/content/blog/ghostwriter-markdown/ghostwriter.JPG?raw=true) { width=50% }
+![](https://github.com/thebarkman/randomtext/blob/b60063ec148e389552279ce8118cd8ab02a04053/content/blog/ghostwriter-markdown/ghostwriter.JPG?raw=true){:width=50%}
 
 So I’m on my journey trying out Gatsby + Github for my blogging purposes. 
 So far, it’s a pretty neat experience. Sure, workflow isn’t as easy as in Ghost. 
