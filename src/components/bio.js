@@ -48,7 +48,7 @@ const Bio = () => {
           {` `}
           Follow on <a href={`https://twitter.com/${social?.twitter || ``}`}>
             Twitter
-          </a>
+          </a>| Hej
         </p>
       )}
     </div>
