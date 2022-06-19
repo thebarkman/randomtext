@@ -2,7 +2,7 @@
 title: Ghostwriter for markdown
 date: "2022-06-19"
 ---
-![Ghostwriter](./ghostwriter.jpg)
+![Ghostwriter](ghostwriter.jpg)
 
 So I’m on my journey trying out Gatsby + Github for my blogging purposes. 
 So far, it’s a pretty neat experience. Sure, workflow isn’t as easy as in Ghost. 
